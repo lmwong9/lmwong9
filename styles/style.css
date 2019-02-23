@@ -7,12 +7,6 @@ html {
     scroll-behavior: smooth;
 }
 
-/*
-=================
-nav
-=================
-*/
-
 .navbar {
     opacity: 0.55;
     background-color: #020202 ;
@@ -29,7 +23,7 @@ nav
 }
 
 .hero-image {
-    background-image: url("/img/violin.jpeg");
+    background-image: url("violin.jpeg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
