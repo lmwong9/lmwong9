@@ -23,7 +23,7 @@ html {
 }
 
 .hero-image {
-    background-image: url("violin.jpeg");
+    background-image: url("/img/violin.jpeg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
